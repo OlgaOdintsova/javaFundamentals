@@ -1,0 +1,2 @@
+# javaFundamentals
+practical tasks
